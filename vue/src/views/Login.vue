@@ -50,7 +50,4 @@
 <script>
 
 
-export default {
-
-}
 </script>
